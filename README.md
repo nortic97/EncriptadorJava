@@ -1,6 +1,6 @@
 ## Instalación
 
-Importa el archivo .jar ya compilado en la carpeta dist a tu proyecto.
+Descarga e Importa el archivo .jar ya compilado en sete repositorio de la carpeta dist a tu proyecto.
 
 ## Uso
 
